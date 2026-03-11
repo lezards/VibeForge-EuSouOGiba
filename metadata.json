@@ -1,0 +1,5 @@
+{
+  "name": "VibeForge Studio",
+  "description": "Premium AI Image Studio for batch generation, prompt engineering, and artistic competition.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
